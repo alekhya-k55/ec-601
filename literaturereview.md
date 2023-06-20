@@ -22,7 +22,7 @@ Dr Lawrence J. Fogel is generally credited with inventing active noise cancellat
 
 On May 11, 202 the Bose Corporation filed a patent for Synchronization of instability mitigation in audio devices. It was a method that is used in control audio devices with active noise reduction (ANR). The system is designed to detect instability conditions in a first headphone and generates one or more control signals to adjust the ANR parameters. The first ANR state is then adjusted to change it into the second ANR state to mitigate the instability condition. The second headphone is then adjusted according to the ANR parameters of the first headphone. 
 
-Soy=ny (Sony EMCS Malaysia) filed a patent for Noise Cancelling Headphones which uses low power. In this, the audio is directly fed into the headphone without using an additional headphone amplifier. It also works on the principles of destructive interference to cancel noise. The filed patent uses fewer components than conventional noise cancellation circuits and it consumes less power. The circuit also enables it to reduce distortion in the audio input. 
+Sony (Sony EMCS Malaysia) filed a patent for Noise Cancelling Headphones which uses low power. In this, the audio is directly fed into the headphone without using an additional headphone amplifier. It also works on the principles of destructive interference to cancel noise. The filed patent uses fewer components than conventional noise cancellation circuits and it consumes less power. The circuit also enables it to reduce distortion in the audio input. 
 
 https://patents.google.com/patent/US20100142718A1/en
 
