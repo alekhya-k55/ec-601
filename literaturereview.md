@@ -20,9 +20,12 @@ PATENT REVIEW
 
 Dr Lawrence J. Fogel is generally credited with inventing active noise cancellation, but noise-cancelling headphones the way we know them today were invented by Dr. Amar Bose of Bose Corporation during the 1980s. Similar to the circuit described above, the headset that the Bose corporation was working on consisted of a microphone which capture the sound and measured the frequency and amplitude of the soundwave to create an opposite soundwave and thus used destructive interference to cancel the noise. These headsets were first designed for the Voyager flight by Dick Rutan and Jeana Yeager who were circumnavigating the globe without refueling. 
 
+On May 11, 202 the Bose Corporation filed a patent for Synchronization of instability mitigation in audio devices. It was a method that is used in control audio devices with active noise reduction (ANR). The system is designed to detect instability conditions in a first headphone and generates one or more control signals to adjust the ANR parameters. The first ANR state is then adjusted to change it into the second ANR state to mitigate the instability condition. 
 
 https://patentimages.storage.googleapis.com/97/93/fc/19408ed05d22d6/US2043416.pdf 
 
 http://daimlerferret.co.uk/wp-content/uploads/2022/07/The-history-of-ANR-noise-cancellation.pdf
 
 https://dspace.mit.edu/bitstream/handle/1721.1/33284/62276966-MIT.pdf?sequence=2
+
+https://www.electronicproducts.com/active-noise-cancellation-anc-block-diagram/
