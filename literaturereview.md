@@ -14,4 +14,6 @@ A microphone is placed inside the ear cup of headphones which picks up the sound
 In their method, they use an inverting summer and a pre-amplifier which are responsible for amplification of the microphone signal and summing up signals from the prefilter and microphone.
 The loudspeaker uses an audio power amplifier; the two filters used are prefilter and feedback controller which play an important role in ANC headphones. 
 
-The paper then describes the mathematics behind cancelling the Bandlimited White Noise. It aims at reducing the sound pressure level for the white noise from 50-500 Hz. The maximum allowable amplification of interfering noise is 3dB. Without this constraint, the feedback loop may run into oscillation with large loop gain within the control bandwidth which produces an undesirable audible or inaudible sound.   
+The paper then describes the mathematics behind cancelling the Bandlimited White Noise. It aims at reducing the sound pressure level for the white noise from 50-500 Hz. The maximum allowable amplification of interfering noise is 3dB. Without this constraint, the feedback loop may run into oscillation with large loop gain within the control bandwidth which produces an undesirable audible or inaudible sound. After considering important constraints like these, the paper talks about how using a series of fourth-order controller and filters, they eliminate the white noise. 
+
+
