@@ -17,10 +17,12 @@ The loudspeaker uses an audio power amplifier; the two filters used are prefilte
 The paper then describes the mathematics behind cancelling the Bandlimited White Noise. It aims at reducing the sound pressure level for the white noise from 50-500 Hz. The maximum allowable amplification of interfering noise is 3dB. Without this constraint, the feedback loop may run into oscillation with large loop gain within the control bandwidth which produces an undesirable audible or inaudible sound. After considering important constraints like these, the paper talks about how using a series of fourth-order controller and filters, they eliminate the white noise. 
 
 PATENT REVIEW
-https://patentimages.storage.googleapis.com/97/93/fc/19408ed05d22d6/US2043416.pdf 
+
 Dr Lawrence J. Fogel is generally credited with inventing active noise cancellation, but noise-cancelling headphones the way we know them today were invented by Dr. Amar Bose of Bose Corporation during the 1980s. Similar to the circuit described above, the headset that the Bose corporation was working on consisted of a microphone which capture the sound and measured the frequency and amplitude of the soundwave to create an opposite soundwave and thus used destructive interference to cancel the noise. These headsets were first designed for the Voyager flight by Dick Rutan and Jeana Yeager who were circumnavigating the globe without refueling. 
 
 
-
+https://patentimages.storage.googleapis.com/97/93/fc/19408ed05d22d6/US2043416.pdf 
 
 http://daimlerferret.co.uk/wp-content/uploads/2022/07/The-history-of-ANR-noise-cancellation.pdf
+
+https://dspace.mit.edu/bitstream/handle/1721.1/33284/62276966-MIT.pdf?sequence=2
