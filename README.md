@@ -1,4 +1,4 @@
-#601 Project
+601 Project
 
 Project Topic: Signal Processing
 
