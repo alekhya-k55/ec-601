@@ -18,4 +18,9 @@ The paper then describes the mathematics behind cancelling the Bandlimited White
 
 PATENT REVIEW
 https://patentimages.storage.googleapis.com/97/93/fc/19408ed05d22d6/US2043416.pdf 
+Dr Lawrence J. Fogel is generally credited with inventing active noise cancellation, but noise-cancelling headphones the way we know them today were invented by Dr. Amar Bose of Bose Corporation during the 1980s. Similar to the circuit described above, the headset that the Bose corporation was working on consisted of a microphone which capture the sound and measured the frequency and amplitude of the soundwave to create an opposite soundwave and thus used destructive interference to cancel the noise. These headsets were first designed for the Voyager flight by Dick Rutan and Jeana Yeager who were circumnavigating the globe without refueling. 
 
+
+
+
+http://daimlerferret.co.uk/wp-content/uploads/2022/07/The-history-of-ANR-noise-cancellation.pdf
