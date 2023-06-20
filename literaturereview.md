@@ -16,4 +16,6 @@ The loudspeaker uses an audio power amplifier; the two filters used are prefilte
 
 The paper then describes the mathematics behind cancelling the Bandlimited White Noise. It aims at reducing the sound pressure level for the white noise from 50-500 Hz. The maximum allowable amplification of interfering noise is 3dB. Without this constraint, the feedback loop may run into oscillation with large loop gain within the control bandwidth which produces an undesirable audible or inaudible sound. After considering important constraints like these, the paper talks about how using a series of fourth-order controller and filters, they eliminate the white noise. 
 
+PATENT REVIEW
+https://patentimages.storage.googleapis.com/97/93/fc/19408ed05d22d6/US2043416.pdf 
 
